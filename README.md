@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GeekyBear.
+- 👋 Hi, I’m Ezequiel Sanchez
 - 👀 I'm trying to get my first job in Development, I want to grow professionally and learn everyday.
 - 🌱 I’m currently learning JavaScript at SoyHenry. I'm studying to become a Full Stack Developer.
 - 💞️ I’m looking to collaborate on every oportunity I get to improve my knowledge and expertise.
