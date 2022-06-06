@@ -9,3 +9,7 @@ GeekyBear/GeekyBear is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 I’m also interested in becoming a superhero, but well, you know, I can't... I couldn't get one of those genetically modified super spiders so...
 --->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeekyBear&layout=compact&hide=GLSL,Rust,Go,Less,Nunjucks)](https://github.com/GeekyBear/github-readme-stats)
+
+![Visitor Count](https://profile-counter.glitch.me/GeekyBear/count.svg)
