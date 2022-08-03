@@ -1,5 +1,5 @@
 # 💫About Me :
-<p>👋 Hi, I’m Ezequiel Sanchez, Full Stack Developer in progress.</p>
+<p>👋 Hi, I’m Ezequiel Sanchez, Full Stack Developer Jr.</p>
 <p>🌱 I’m a student at Henry.</p>
 <p>👀 I'm trying to get my first job in Development, I want to grow professionally and learn everyday.</p>
 <p>💞️ I’m looking to collaborate on every oportunity I get to improve my knowledge and expertise.</p>
