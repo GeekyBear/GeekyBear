@@ -1,10 +1,15 @@
 # 💫About Me :
 <p>👋 Hi, I’m Ezequiel Sanchez, Full Stack Developer Jr.</p>
-<p>🌱 I’m a student at Henry.</p>
-<p>👀 I'm trying to get my first job in Development, I want to grow professionally and learn everyday.</p>
+<p>👀 I want to grow professionally and learn everyday.</p>
 <p>💞️ I’m looking to collaborate on every oportunity I get to improve my knowledge and expertise.</p>
 <p>📫 How to reach me at => email: ezegeek@gmail.com</p>
 
+<img
+  src="https://cdn.efset.org/efset-widget/img/certificate_78.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; width: 250px">
+  
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ezequiel-s%C3%A1nchez-00091b21/) 
 
