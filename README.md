@@ -1,7 +1,6 @@
 # 💫About Me :
-<p>👋 Hi, I’m Ezequiel Sanchez, Full Stack Developer</p>
-<p>👀 I want to grow professionally and learn everyday.</p>
-<p>💞️ I’m looking to collaborate on every oportunity I get to improve my knowledge and expertise.</p>
+<p>👋 Hi, I’m Ezequiel Sanchez. I’m an experienced Full-Stack PERN developer. My knowledge was developed by experience and my self-taught approach. I’m expanding my career facing new challenges, working hard and solving problems</p>
+<p>I’m looking to collaborate on every oportunity I get to improve my knowledge and expertise.</p>
 <p>📫 Contact Me => Email: ezegeek@gmail.com</p>
 
 <img
